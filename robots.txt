@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cpd-mall.pages.dev/sitemap.xml
